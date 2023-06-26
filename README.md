@@ -1,1 +1,2 @@
 # Pig-Game
+The goal of this interactive game is to be the first player to reach a specified score. With each turn, players roll the dice, accumulating points along the way. But beware, rolling a 1 resets your current turn score! Strategy comes into play as you decide whether to keep rolling for higher scores or play it safe and hold. This JavaScript project allowed me to sharpen my programming skills in random number generation and user input handling
